@@ -9,9 +9,6 @@ def state_log(star_date)
   "Captain's Log, star date #{star_date}."
 end
 
-def greeting(crew)
-  "Hello #{crew}"
-end
 
 def engage
   state_log(date)
